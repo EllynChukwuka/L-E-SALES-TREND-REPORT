@@ -238,3 +238,4 @@ Data Source: L & E Minimart Sales Database
 Excel Functions Used: SUMIFS, AVERAGEIFS, Pivot Tables
 [L & E MINIMART.xlsx](https://github.com/user-attachments/files/19269135/L.E.MINIMART.xlsx)
 <img width="927" alt="L    E DASHBOARD" src="https://github.com/user-attachments/assets/654a8768-89ef-45ec-a1de-e140dfa51f87" />
+
