@@ -11,6 +11,7 @@ Data Visualizations & Charts
 Recommendations and Observations
 Conclusion
 References & Appendices
+
 2. INTRODUCTION
 This report presents an analytical overview of sales data from L & E Minimart. The objective is to understand customer behavior, product performance, and sales trends using Microsoft Excel. The analysis follows these key sections:
 
@@ -25,6 +26,7 @@ What insights can be derived to improve business performance?
 Key Dataset Used and Methodology
 Datasets Used: “Sales” sheet containing transactions.
 Excel Techniques Used: Pivot Tables, Filtering, Sorting, Data Validation, Conditional Formatting, and Data Visualization tools.
+
 3. STORY OF DATA
 Data Source
 This dataset originates from L & E Minimart’s internal transaction records.
@@ -47,6 +49,7 @@ Total Price & Quantity: Critical for revenue and inventory management.
 Data Limitations or Biases
 Potential missing or incorrect entries.
 Data does not account for seasonal trends or external economic factors.
+
 4. Data Splitting and Preprocessing
 Data Cleaning
 Removed duplicates and inconsistencies.
@@ -57,6 +60,7 @@ Excluded rows with critical missing values affect the analysis.
 Data Transformations
 Created new variables (e.g., revenue per product, average purchase amount per customer type).
 Standardized product categories for consistency.
+
 Data Splitting
 Dependent Variable: Total Price
 Independent Variables: Product name, category, quantity, city, branch
@@ -81,6 +85,7 @@ Price elasticity affects customer purchasing behavior.
 Initial Insights
 Sales are concentrated in specific cities.
 Some product categories drive higher revenue despite lower purchase volumes.
+
 6. IN-ANALYSIS
 Unconfirmed Insights
 Does gender influence product preferences?
@@ -92,6 +97,7 @@ Analysis Techniques Used in Excel
 Pivot Tables for product/category sales.
 SUMIFS, AVERAGEIFS, and COUNTIFS for aggregated insights.
 Conditional formatting for outlier detection.
+
 7. Post-Analysis and Insights
 Key Findings
 Beverages and Personal Care products are best-sellers.
@@ -100,6 +106,7 @@ City-based sales trends highlight regional preferences.
 Comparison with Initial Findings
 Initial expectations about product demand were validated.
 Sales variation across cities was more significant than assumed.
+
 8. Data Visualizations & Charts
 Charts and Graphs
 Bar charts for product performance
@@ -110,6 +117,7 @@ A consolidated dashboard displaying key sales KPIs.
 Explanation of Visualizations
 Trends by city and branch to guide regional marketing strategies.
 High-performance product categories to inform inventory decisions.
+
 9. Recommendations and Observations
 1.Branch Performance
 
@@ -126,6 +134,7 @@ New York has the highest number of sales transactions, making it the most profit
 Chicago follows closely, suggesting strong customer demand.
 
 Los Angeles has the lowest sales volume, which indicates weak customer engagement or competition.
+
 
 3. Sales by Gender
 
@@ -151,9 +160,11 @@ Beverages and Stationery contribute less to total sales.
 
 Certain categories underperform, indicating either low demand or lack of promotion.
 
+
 Actionable Insights
 Implement personalized promotions for members.
 Expand inventory for top-selling product categories.
+
 Recommendations
 
 1. Boost Sales in Los Angeles (Branch B)
@@ -180,6 +191,7 @@ Partner with beauty/lifestyle influencers to promote high-end personal care and 
 
 Highlight best-selling female-oriented products.
 
+
 3. Optimize Inventory & Promotions for Best-Selling Products
 
 Shampoo, Fruits, and Household items are top sellers and should be prioritized.
@@ -189,6 +201,7 @@ Ensure high stock levels of top-performing products to avoid shortages.
 Create bundle deals, such as “Buy Shampoo & Conditioner together at 10% off.”
 
 Run a limited-time promotion on bestsellers, such as “Weekend Sale: 15% off all Detergents!”
+
 
 4. Improve Sales in Underperforming Categories (Stationery & Beverages)
 
@@ -208,6 +221,7 @@ Enhance reward programs for high-value customers.
 Unexpected Outcomes
 Certain products underperform despite high expectations.
 Some cities have an unexpectedly high volume of sales.
+
 10. Conclusion
 Key Learnings
 Membership programs drive significant revenue.
